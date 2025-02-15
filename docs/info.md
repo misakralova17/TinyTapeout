@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Switch 8 switch the number from 6 to 9. The pins are further described int he documentation.
 
 ## How to test
 
-Explain how to use your project
+Hook it up to a seven segment display and play with the DIP switch 8.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+DIP switch 8 and seven segment display.
